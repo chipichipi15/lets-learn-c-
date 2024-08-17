@@ -9,3 +9,4 @@ create table students(
   name VARCHAR[20],
   class VARCHAR[1]
   );
+INSERT INTO students(roll_no,name,Class) VALUES(34,'Abel George',910023432);
